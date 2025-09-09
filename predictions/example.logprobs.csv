@@ -1,0 +1,6 @@
+id,english_text,english_logprob,french_text,french_logprob,german_text,german_logprob
+1,"Partly cloudy with light winds",-2.3456,"Partiellement nuageux avec vents légers",-2.8901,"Teilweise bewölkt mit leichten Winden",-3.1234
+2,"Heavy rain expected this afternoon",-1.9876,"Fortes pluies attendues cet après-midi",-2.4567,"Schwere Regenfälle am Nachmittag erwartet",-2.7890
+3,"Clear skies with occasional clouds",-2.1234,"Ciel dégagé avec nuages occasionnels",-2.6789,"Klarer Himmel mit gelegentlichen Wolken",-2.9876
+4,"Thunderstorms likely in the evening",-2.5678,"Orages probables en soirée",-3.0123,"Gewitter wahrscheinlich am Abend",-3.3456
+5,"Sunny and warm throughout the day",-1.8765,"Ensoleillé et chaud toute la journée",-2.2345,"Sonnig und warm den ganzen Tag",-2.5678
