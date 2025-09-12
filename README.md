@@ -71,14 +71,7 @@ python -m spacy download de_core_news_sm
 ## 📈 Data Format
 
 ### Input Data
-Meteorological data includes:
-- Temperature (°C)
-- Humidity (%)
-- Wind speed (km/h)
-- Wind direction
-- Atmospheric pressure (hPa)
-- Visibility (km)
-- Weather conditions
+Dataset: https://drive.google.com/drive/folders/18tUmoFbUOdSzKhwNjeUWpH85BoQB3cBJ?usp=sharing
 
 ### Output Format
 Submissions should be CSV files with the following columns:
